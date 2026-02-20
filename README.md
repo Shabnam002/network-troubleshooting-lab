@@ -27,13 +27,13 @@ Terminal-based networking tools
 
 3. Internet Connectivity Test
    Tested external connectivity using public DNS servers
-   `ping -c 4 1.1.1.1
-   ping -c 4 9.9.9.9`
+   `ping -c 4 1.1.1.1`
+   `ping -c 4 9.9.9.9`
 
 4. DNS Resolution Test
    Verified domain name resolution
-   `ping -c 4 google.com
-   nslookup google.com`
+   `ping -c 4 google.com`
+   `nslookup google.com`
 
 # Results
 Valid IP address obtained 
